@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="?A9^AktRW;_+Y*g:01/t" x="0" y="0"></block><block type="device_forever" id="CFGIE11]|@aKt411H)`y" x="205" y="0"></block><block type="controls_if" id="R=.B*G,,FiHlgkMck$OZ" disabled="true" x="312" y="171"><value name="IF0"><shadow type="logic_boolean" id="voIm/W@p`Wq|4ueu96@C" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block><block type="device_show_leds" id="PN7CRTAd1(_;6X@^=Izx" disabled="true" x="569" y="168"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_plot" id="|(c#dTX]1lsBte}-SC4p" disabled="true" x="298" y="466"><value name="x"><shadow type="math_number_minmax" id="*hpUv|P:2mQtd98?21wQ" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="p]w9hbLMqiGO:UYR%HCz" disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">0</field></shadow></value></block><block type="game_add_score" id="ripJ8o;k5NfcF?MKUTRT" disabled="true" x="559" y="698"><value name="points"><shadow type="math_number" id="J)w6|G=2Qm,PdIy%EiN;" disabled="true"><field name="NUM">1</field></shadow></value></block></xml>
